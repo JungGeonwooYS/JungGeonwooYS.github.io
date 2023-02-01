@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Page3
-parent: page2
+parent: Page2
 nav_order: 1
 ---
 
