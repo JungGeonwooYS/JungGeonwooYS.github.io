@@ -3,7 +3,7 @@ layout: default
 title: Page1
 nav_order: 2
 ---
-# Hi, My name is Gunwoo
+# Hi, My name is Geonwoo
 
 hello 
 {: .fs-5 }
